@@ -1,3 +1,4 @@
 # Write your solution here
 
-Time.now.sec.even? ? (puts "Even!") : (puts "Odd!")
+if Time.now.sec.even?
+    puts "Even!") : (puts "Odd!")
